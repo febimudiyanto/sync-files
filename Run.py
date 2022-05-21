@@ -1,4 +1,3 @@
-# check if config file is exist
 import os
 import hashlib
 import time
